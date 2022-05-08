@@ -1,0 +1,31 @@
+body {
+  background-color: #53503a26;
+  text-align: center;
+}
+
+h1 {
+  color: grey;
+  font-size: 70px;
+}
+
+button {
+  border: 5rem, black;
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+}
+
+#dodaj {
+  background-color: bisque;
+  margin-right: 20px;
+}
+
+#usun {
+  background-color: #00718b;
+}
+
+#tekst {
+  color: #b39f77;
+  text-transform: uppercase;
+  font-size: 20px;
+}
